@@ -23,7 +23,7 @@
 ## Установка
 #### 1. Клонировать репозиторий
 ```
-$ git@github.com:aleksandrkomyagin/api_yamdb.git
+$ git@github.com:Uretzjke/rate_db.git
 ```
 #### 2. Cоздать и активировать виртуальное окружение:
 ```
